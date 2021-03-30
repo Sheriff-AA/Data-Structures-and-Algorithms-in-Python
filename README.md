@@ -1,12 +1,12 @@
 # Data-Structures-and-Algorithms-in-Python
 
 DATA STRUCTURES 
-- Arrays
+- Arrays - Lists in python
 - Trees
 - Stacks
 - Queues
 - Graphs
-- HashTables
+- HashTables - Dictionaries in python
 - Linked Lists
 
 ALGORITHMS
